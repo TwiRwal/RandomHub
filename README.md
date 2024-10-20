@@ -1,2 +1,3 @@
 # RandomHub
-Open source code 
+Open Source Roblox Code Made For Fun
+# Update Log
